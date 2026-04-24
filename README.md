@@ -33,13 +33,6 @@ This repository includes:
   </a>
 </p>
 
-### Demo Videos
-
-| HDMI Output Demo | macOS FPGA LED Chaser |
-| --- | --- |
-| [![HDMI Demo](https://img.youtube.com/vi/nfMQvRwTM1Y/maxresdefault.jpg)](https://youtu.be/nfMQvRwTM1Y) | [![LED Chaser Demo](https://img.youtube.com/vi/-smQ1xjZT98/hqdefault.jpg)](https://youtube.com/shorts/-smQ1xjZT98?feature=share) |
-| Tang Primer HDMI output bring-up | Gowin FPGA LED chaser workflow |
-
 ---
 
 ## Areas of Focus
