@@ -13,28 +13,6 @@ This GitHub is where I keep my personal projects structured, documented, and run
 
 ---
 
-## Featured Hardware Project
-
-### [Gowin FPGA Design Projects](https://github.com/ayengec/Gowin_FPGA_Design_Projects)
-
-A growing collection of practical FPGA demos and experiments for the **Gowin / Tang Primer** ecosystem.
-
-This repository includes:
-
-- DDR3 test project with UART-based menu interaction
-- HDMI output demos
-- macOS-friendly Gowin FPGA design workflow notes
-- Verilog/SystemVerilog RTL examples
-- Real board bring-up videos and screenshots
-
-<p align="center">
-  <a href="https://github.com/ayengec/Gowin_FPGA_Design_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayengec&repo=Gowin_FPGA_Design_Projects" alt="Gowin FPGA Design Projects" />
-  </a>
-</p>
-
----
-
 ## Areas of Focus
 
 ### Verification & Emulation
