@@ -4,9 +4,8 @@
   </a>
 </p>
 
-# Hi, I'm Alican Yengeç
 
-I am a digital design and verification/emulation engineer focused on **ASIC accelerated verification & emulation**, **protocol VIP development**, and **FPGA-based RTL design**.
+As a digital design and verification/emulation engineer focused on **ASIC accelerated verification & emulation**, **protocol VIP development**, and **FPGA-based RTL design**.
 
 My day-to-day work is around reusable UVM environments, protocol verification, RTL debug, and hardware bring-up flows.  
 This GitHub is where I keep my personal projects structured, documented, and runnable.
