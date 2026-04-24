@@ -80,36 +80,35 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 
 ## Project Portfolio
 
-### FPGA / RTL / Hardware Bring-up
+### Verification & VIP
 
-#### Gowin FPGA Projects
+| Project | Description |
+| --- | --- |
+| [AXI4_Lite_VIP](https://github.com/ayengec/AXI4_Lite_VIP) | UVM-based AXI4-Lite master VIP with example DUT, tests, logs, and waveform support |
+| [APB3_VIP](https://github.com/ayengec/APB3_VIP) | UVM-based APB3 master VIP with structured components and runnable scripts |
+| [SPI_VIP](https://github.com/ayengec/SPI_VIP) | Reusable SPI verification environment supporting all 4 CPOL×CPHA modes |
+| [I2C_VIP](https://github.com/ayengec/I2C_VIP) | I2C protocol VIP with configurable driver, monitor, sequencer, and scoreboard |
+| [UART_VIP](https://github.com/ayengec/UART_VIP) | UART verification IP focused on clean, reusable testbench architecture |
+
+### Gowin FPGA Projects
 
 Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_FPGA_Design_Projects)
 
 | Project | Description |
 | --- | --- |
-| [ddr3_test_w_UART_menu](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/ddr3_test_w_UART_menu) | DDR3 test project with a UART-based interactive menu for real board bring-up |
-| [hdmi_ayengec_demo](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/hdmi_ayengec_demo) | HDMI output demo for the Tang Primer / Gowin FPGA platform |
+| [ddr3_test_w_UART_menu](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/ddr3_test_w_UART_menu) | DDR3 test design with a UART-based interactive menu for real board bring-up |
+| [hdmi_ayengec_demo](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/hdmi_ayengec_demo) | HDMI output demo for the Gowin / Tang Primer FPGA platform |
 | [macos_led_knight_rider](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_led_knight_rider) | macOS-friendly Gowin FPGA workflow demo with LED chaser / Knight Rider effect |
+| More projects coming soon | Additional Gowin FPGA experiments, memory tests, display demos, and board bring-up examples |
 
-#### Other FPGA / RTL Projects
+### FPGA / RTL
 
 | Project | Description |
 | --- | --- |
-| [AXI4_Lite_RISCV_core](https://github.com/ayengec/AXI4_Lite_RISCV_core) | RISC-V RTL design work with AXI4-Lite integration |
 | [FPGA-Design-with-Systemverilog](https://github.com/ayengec/FPGA-Design-with-Systemverilog) | RTL-oriented SystemVerilog design examples and FPGA projects |
-| [Bresenham_Line_Algorithm_VGA__BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3) | Bresenham line algorithm implemented on BASYS3 with VGA output |
-| [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL) | TCL scripting examples and notes for RTL / FPGA workflows |
-
-### Verification & VIP
-
-| Project | Description |
-| --- | --- |
-| [AXI4_Lite_VIP](https://github.com/ayengec/AXI4_Lite_VIP) | UVM-based AXI4-Lite VIP with example DUT, tests, logs, and waveform support |
-| [APB3_VIP](https://github.com/ayengec/APB3_VIP) | UVM-based APB3 verification IP with structured components and runnable scripts |
-| [SPI_VIP](https://github.com/ayengec/SPI_VIP) | SPI UVM VIP supporting all CPOL/CPHA modes |
-| [I2C_VIP](https://github.com/ayengec/I2C_VIP) | Configurable I2C VIP with driver, monitor, sequencer, and scoreboard |
-| [UART_VIP](https://github.com/ayengec/UART_VIP) | UART verification component focused on clean reusable testbench architecture |
+| [Bresenham_Line_VGA_BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3) | Bresenham's line algorithm implemented on BASYS3 via VGA output |
+| [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL) | TCL scripting notes and examples for RTL and FPGA design workflows |
+| [RISCV core with AXI4_Lite](https://github.com/ayengec/AXI4_Lite_RISCV_core) | RISC-V RTL design workflow with AXI4-Lite integration |
 
 ### Embedded / MCU
 
@@ -117,8 +116,7 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 | --- | --- |
 | [STM32F4_Projects](https://github.com/ayengec/STM32F4_Projects) | Low-level peripheral programming on STM32F4 / Cortex-M4 |
 | [Stellaris_LM4F120XL_Projects](https://github.com/ayengec/Stellaris_LM4F120XL_Projects) | Peripheral-level embedded projects for TI Stellaris LaunchPad |
-| [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects) | PIC projects covering UART, ADC, PWM, I2C, and SPI |
-
+| [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects) | PIC-based projects covering UART, ADC, PWM, I2C, and SPI |
 ---
 
 ## Current Direction
