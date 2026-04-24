@@ -24,7 +24,7 @@ RTL Design · FPGA Design Flows · Verilog · SystemVerilog · Gowin · Vivado �
 
 ### Embedded / MCU
 
-STM32 / Cortex-M4 · TI Stellaris · PIC · Peripheral-level programming  
+STM32 / Cortex-M4 · TI Stellaris · PIC · Bare metal programming  
 UART · SPI · I2C · ADC · PWM
 
 ### Tools & Scripting
