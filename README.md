@@ -29,7 +29,7 @@ UART · SPI · I2C · ADC · PWM
 
 ### Tools & Scripting
 
-TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
+TCL · Python · C · Makefile · Simulation scripts · Shell Scripting · FPGA build automation
 
 ---
 
