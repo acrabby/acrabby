@@ -67,7 +67,7 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 | [UART_VIP](https://github.com/ayengec/UART_VIP) | UART verification IP focused on clean, reusable testbench architecture |
 | [DHT22_VIP](https://github.com/ayengec/DHT22_VIP) | UVM VIP for the DHT22 one-wire sensor protocol with CRC checking, error injection, and regression support |
 
-### Gowin FPGA Design Projects
+### Gowin FPGA Projects
 
 Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_FPGA_Design_Projects)
 
@@ -75,9 +75,10 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 | --- | --- |
 | [ddr3_test_w_UART_menu](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/ddr3_test_w_UART_menu) | DDR3 test design with a UART-based interactive menu for real board bring-up |
 | [hdmi_ayengec_demo](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/hdmi_ayengec_demo) | HDMI output demo for the Gowin / Tang Primer FPGA platform |
+| [macos_i2c_rtc_uart](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_i2c_rtc_uart) | I2C RTC interface with UART output on Gowin FPGA |
+| [macos_lcd_spi_and_dht22](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_lcd_spi_and_dht22) | SPI TFT display with One-Wire DHT22 temperature and humidity monitoring on Gowin FPGA |
 | [macos_led_knight_rider](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_led_knight_rider) | macOS-friendly Gowin FPGA workflow demo with LED chaser / Knight Rider effect |
 | [macos_rgb_led_w_button_ws2812](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_rgb_led_w_button_ws2812) | WS2812 RGB LED controller with push-button based color and brightness control |
-| [macos_lcd_spi_and_dht22](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_lcd_spi_and_dht22) | SPI TFT display with One-Wire DHT22 temperature and humidity monitoring on Gowin FPGA |
 
 ### FPGA / RTL
 
