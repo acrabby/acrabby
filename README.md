@@ -86,7 +86,6 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 | [FPGA-Design-with-Systemverilog](https://github.com/ayengec/FPGA-Design-with-Systemverilog) | RTL-oriented SystemVerilog design examples and FPGA projects |
 | [Bresenham_Line_VGA_BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3) | Bresenham's line algorithm implemented on BASYS3 via VGA output |
 | [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL) | TCL scripting notes and examples for RTL and FPGA design workflows |
-| [RISCV core with AXI4_Lite](https://github.com/ayengec/AXI4_Lite_RISCV_core) | RISC-V RTL design workflow with AXI4-Lite integration |
 
 ### Embedded / MCU
 
