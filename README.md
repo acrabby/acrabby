@@ -66,7 +66,7 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 | [I2C_VIP](https://github.com/ayengec/I2C_VIP) | I2C protocol VIP with configurable driver, monitor, sequencer, and scoreboard |
 | [UART_VIP](https://github.com/ayengec/UART_VIP) | UART verification IP focused on clean, reusable testbench architecture |
 
-### Gowin FPGA Projects
+### Gowin FPGA Design Projects
 
 Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_FPGA_Design_Projects)
 
@@ -76,7 +76,7 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 | [hdmi_ayengec_demo](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/hdmi_ayengec_demo) | HDMI output demo for the Gowin / Tang Primer FPGA platform |
 | [macos_led_knight_rider](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_led_knight_rider) | macOS-friendly Gowin FPGA workflow demo with LED chaser / Knight Rider effect |
 | [macos_rgb_led_w_button_ws2812](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_rgb_led_w_button_ws2812) | WS2812 RGB LED controller with push-button based color and brightness control |
-| More projects coming soon | Additional Gowin FPGA experiments, memory tests, display demos, and board bring-up examples |
+| [macos_lcd_spi_and_dht22](https://github.com/ayengec/Gowin_FPGA_Design_Projects/tree/main/macos_lcd_spi_and_dht22) | SPI TFT display with One-Wire DHT22 temperature and humidity monitoring on Gowin FPGA |
 
 ### FPGA / RTL
 
