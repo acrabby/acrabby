@@ -50,6 +50,7 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 
 ## Project Portfolio
 ### RV32I Design & UVM TB
+| --- | --- |
 | [rv32i_axi4l_subsystem_uvm_tb](https://github.com/ayengec/rv32i_axi4l_subsystem_uvm_tb) | Self-checking UVM testbench for an RV32I AXI4-Lite CPU subsystem with reference model, scoreboard, and coverage |
 
 ### Verification & VIP
