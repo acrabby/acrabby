@@ -65,6 +65,7 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 | [SPI_VIP](https://github.com/ayengec/SPI_VIP) | Reusable SPI verification environment supporting all 4 CPOL×CPHA modes |
 | [I2C_VIP](https://github.com/ayengec/I2C_VIP) | I2C protocol VIP with configurable driver, monitor, sequencer, and scoreboard |
 | [UART_VIP](https://github.com/ayengec/UART_VIP) | UART verification IP focused on clean, reusable testbench architecture |
+| [DHT22_VIP](https://github.com/ayengec/DHT22_VIP) | UVM VIP for the DHT22 one-wire sensor protocol with CRC checking, error injection, and regression support |
 
 ### Gowin FPGA Design Projects
 
