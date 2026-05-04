@@ -49,7 +49,10 @@ TCL · Python · C · Makefiles · Simulation scripts · FPGA build automation
 ---
 
 ## Project Portfolio
+
 ### RV32I Design & UVM TB
+
+| Project | Description |
 | --- | --- |
 | [rv32i_axi4l_subsystem_uvm_tb](https://github.com/ayengec/rv32i_axi4l_subsystem_uvm_tb) | Self-checking UVM testbench for an RV32I AXI4-Lite CPU subsystem with reference model, scoreboard, and coverage |
 
@@ -91,6 +94,7 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 | [STM32F4_Projects](https://github.com/ayengec/STM32F4_Projects) | Low-level peripheral programming on STM32F4 / Cortex-M4 |
 | [Stellaris_LM4F120XL_Projects](https://github.com/ayengec/Stellaris_LM4F120XL_Projects) | Peripheral-level embedded projects for TI Stellaris LaunchPad |
 | [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects) | PIC-based projects covering UART, ADC, PWM, I2C, and SPI |
+
 ---
 
 ## Current Direction
