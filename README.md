@@ -92,7 +92,7 @@ Main repository: [Gowin_FPGA_Design_Projects](https://github.com/ayengec/Gowin_F
 
 | Project | Description |
 | --- | --- |
-| [STM32F4_Projects](https://github.com/ayengec/STM32F4_Projects) | Low-level peripheral programming on STM32F4 / Cortex-M4 |
+| [STM32_Projects](https://github.com/ayengec/STM32_Projects) | Low-level peripheral programming on STM32 / Cortex-M4 |
 | [Stellaris_LM4F120XL_Projects](https://github.com/ayengec/Stellaris_LM4F120XL_Projects) | Peripheral-level embedded projects for TI Stellaris LaunchPad |
 | [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects) | PIC-based projects covering UART, ADC, PWM, I2C, and SPI |
 
