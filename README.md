@@ -69,7 +69,6 @@ I am currently building more public examples around:
 - FPGA board bring-up
 - Gowin/Tang Primer development
 - DDR3, UART, HDMI, and display-oriented FPGA projects
-- Reusable UVM VIPs for common protocols
 - Practical RTL verification flows with scripts, logs, and waveform references
 
 ---
