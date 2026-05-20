@@ -6,7 +6,7 @@ UVM & SV
 
 ### RTL & FPGA
 
-RTL Design · FPGA Design Flows · Verilog · SystemVerilog · Gowin · Vivado · ModelSim · Questa · Timing Closure
+RTL Design · FPGA Design Flows · Verilog · SystemVerilog · Gowin · Vivado · ModelSim ·  Timing Closure
 
 ### Embedded / MCU
 
